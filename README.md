@@ -16,7 +16,8 @@ Build and compare five classification models that predict whether a breast tumou
 ## c. GitHub repository link
 https://github.com/2026ak05067-netizen/ml-assignment2-classifiers.git
 
-Live app: `<PASTE YOUR STREAMLIT URL HERE>`
+Live app: 
+https://ml-assignment2-classifiers-hhx7wrtzz66mdfaokmsngu.streamlit.app/
 
 ```
 project-folder/
