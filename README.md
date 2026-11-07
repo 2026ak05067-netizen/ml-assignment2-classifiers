@@ -14,7 +14,7 @@ Build and compare five classification models that predict whether a breast tumou
 - **Preprocessing:** `StandardScaler` fitted on the training data only, bundled with each model in one scikit-learn `Pipeline` (so the app applies identical preprocessing)
 
 ## c. GitHub repository link
-`<PASTE YOUR GITHUB REPO URL HERE>`
+https://github.com/2026ak05067-netizen/ml-assignment2-classifiers.git
 
 Live app: `<PASTE YOUR STREAMLIT URL HERE>`
 
